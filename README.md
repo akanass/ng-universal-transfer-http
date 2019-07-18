@@ -1,5 +1,3 @@
-<img src="http://bit.ly/2mxmKKI" width="500" alt="Hapiness" />
-
 <div style="margin-bottom:20px;">
 <div style="line-height:60px">
     <a href="https://travis-ci.org/akanass/ng-universal-transfer-http.svg?branch=master">
