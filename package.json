@@ -1,5 +1,5 @@
 {
-    "name": "@hapiness/ng-universal-transfer-http-cli",
+    "name": "@akanass/ng-universal-transfer-http-cli",
     "private": true,
     "scripts": {
         "build": "ng build 'ng-universal-transfer-http' --prod"
