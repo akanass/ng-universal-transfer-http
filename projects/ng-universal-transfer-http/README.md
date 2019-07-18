@@ -230,7 +230,7 @@ export class AppModule {
 This option is compatible with `prodMode` option.
 
 ## Change History
-* v10.0 (2019-07-12)
+* v1.0.0 (2019-07-12)
     * `Angular v8.1.2+`
     * Original implementation
     * Documentation
