@@ -28,7 +28,7 @@
 
 # NG-Universal Transfer HTTP Cache Module
 
-This project uses [Angular-CLI](https://github.com/angular/angular-cli) to generate `@hapiness/ng-universal-transfer-http` project.
+This project uses [Angular-CLI](https://github.com/angular/angular-cli) to generate `@akanass/ng-universal-transfer-http` project.
 
 `TransferHttpCacheModule` installs a **Http interceptor** that avoids duplicate `HttpClient` requests on the client.
 
