@@ -7,7 +7,7 @@
     "dependencies": {
         "@angular/common": "^8.1.2",
         "@angular/compiler": "^8.1.2",
-        "@angular/core": "^8.1.2",
+        "@angular/core": "^11.0.5",
         "@angular/platform-browser": "^8.1.2",
         "flatted": "^2.0.1",
         "create-hash": "^1.2.0",
